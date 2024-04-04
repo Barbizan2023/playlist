@@ -10,8 +10,13 @@ export default function Home({navigation}) {
     title:"MIGO ou VIDA",
     group: "AC/DC", 
     album_image:
-    "https://i1.sndcdn.com/artworks-Jkkb4nnOE3u0sqzK-YUWlBg-t500x500.jpg"
+    "https://i1.sndcdn.com/artworks-Jkkb4nnOE3u0sqzK-YUWlBg-t500x500.jpg",
+    album: "Meu Nome Não é Igor",
+    year:2023,
+    genre: "Funk",
   };
+   
+  
 
 
   return (

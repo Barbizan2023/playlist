@@ -30,6 +30,8 @@ export default function MusicItem({
             </View>
         </View>
 
+        
+
 
     );
-}
+} 
